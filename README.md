@@ -9,6 +9,14 @@ Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le fair
 
 ### Prérequis
 
+#### Systeme d'exploitation
+
+```
+macOS Sierra
+```
+
+#### Téléchargement
+
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
