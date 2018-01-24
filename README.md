@@ -1,6 +1,6 @@
 # Fdf
 
-Premier projet de la branche graphique de l'école 42. Créer un programme qui prend en paramètre un fichier contenant des entiers et qui affichera une représentation en fil de fer.
+Premier projet de la branche graphique de l'école 42. Créer un programme qui prend en paramètre un fichier contenant des nombres entiers et qui affichera une représentation en fil de fer.
 
 ## Pour commencer
 
