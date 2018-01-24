@@ -68,6 +68,12 @@ Ligne de commande
 ![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_5.jpeg?token=AT6ePNtitJCg90NFgu6hkzULBtC1D1WXks5acc7dwA%3D%3D)
 ![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_6.jpeg?token=AT6ePBJb6-2yBXXmJvAWzmfVmfelwAoLks5acc8EwA%3D%3D)
 
+## Compiler avec
+* Minilibx - Librairie graphique
+
+## Licence
+* Minilibx - License BSD: Copyright Olivier Crouzet - 2014
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
