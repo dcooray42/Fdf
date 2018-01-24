@@ -83,6 +83,9 @@ Ligne de commande
 ## Licence
 * Minilibx - License BSD: Copyright Olivier Crouzet - 2014
 
+## Note
+121/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
