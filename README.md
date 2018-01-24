@@ -57,7 +57,7 @@ contenant des entiers.
 Ligne de commande
 
 ```
-./fdf [nom du fichier avec les entiers]
+./fdf [PATH/nom du fichier avec les entiers]
 ```
 
 #### Exemple
