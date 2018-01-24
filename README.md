@@ -1,15 +1,14 @@
 # Fdf
 
-Premier projet de la branche graphique de l'école 42. Créer un programme qui prend en paramètre un fichier contenant des entiers
-et qui affichera une représentation en fil de fer.
+Premier projet de la branche graphique de l'école 42. Créer un programme qui prend en paramètre un fichier contenant des entiers et qui affichera une représentation en fil de fer.
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
-#### Systeme d'exploitation
+#### Système d'exploitation
 
 ```
 macOS Sierra
@@ -57,7 +56,7 @@ make re
 
 ## Faire des tests
 
-Une fois que le programme a été crée, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un fichier 
+Une fois que le programme a été créé, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un fichier 
 contenant des entiers.
 
 ### Utilisation du programme
