@@ -70,12 +70,12 @@ Ligne de commande
 ```
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_1.jpeg?token=AT6ePKwoIP6u6KFZj5kgziNL6fXDSiAOks5acc3rwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_2.jpeg?token=AT6ePLMcc1sUWoCpZYq01CwiPeAinokRks5acc5NwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_3.jpeg?token=AT6ePKx1ppugq5CiMBDdkvZQhAHMV4qWks5acc6UwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_4.jpeg?token=AT6ePL-1WXiN0uDgIeZ50oqdQ2mHa-CWks5acc61wA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_5.jpeg?token=AT6ePNtitJCg90NFgu6hkzULBtC1D1WXks5acc7dwA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/fdf_6.jpeg?token=AT6ePBJb6-2yBXXmJvAWzmfVmfelwAoLks5acc8EwA%3D%3D)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_1.jpeg)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_2.jpeg)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_3.jpeg)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_4.jpeg)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_5.jpeg)
+![alt text](https://github.com/konamifox/photo/blob/master/fdf_6.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
