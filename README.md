@@ -70,12 +70,12 @@ Ligne de commande
 ```
 
 #### Exemple
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_1.jpeg)
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_2.jpeg)
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_3.jpeg)
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_4.jpeg)
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_5.jpeg)
-![alt text](https://github.com/konamifox/photo/blob/master/fdf_6.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_1.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_2.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_3.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_4.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_5.jpeg)
+![alt text](https://github.com/dcooray42/photo/blob/master/fdf_6.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
@@ -88,4 +88,4 @@ Ligne de commande
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
