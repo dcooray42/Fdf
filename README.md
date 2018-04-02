@@ -70,12 +70,12 @@ Ligne de commande
 ```
 
 #### Exemple
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_1.jpeg)
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_2.jpeg)
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_3.jpeg)
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_4.jpeg)
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_5.jpeg)
-![alt text](https://github.com/dcooray42/Fdf/blob/master/photo/fdf_6.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_1.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_2.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_3.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_4.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_5.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fdf/master/photo/fdf_6.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
