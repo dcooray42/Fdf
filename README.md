@@ -21,7 +21,7 @@ macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/Fdf.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/Fdf.git [nom du PATH/dossier]
 ```
 
 ### Installation
